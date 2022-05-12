@@ -12,8 +12,8 @@ import random
 from pyrogram.types import InlineKeyboardButton
 
 selections = [
-    "S U R Y A",
-    "M U S I C",
+    "S U R Y A M O D S",
+    "M U S I C  B O T",
 ]
 
 
