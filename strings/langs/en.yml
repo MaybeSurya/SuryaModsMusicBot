@@ -466,7 +466,7 @@ sug_20 : "You can get a complete list of my commands that i accept.\n\nCommand: 
 sug_21 : "Bot has server-sided playlist option.\n\nYou can add music in your playlist and play them all together via /play"
 sug_22 : "You can now shuffle the queued musics on the bot.\n\nCommand: /shuffle"
 sug_23 : "You can check the queue of the musics.\n\nCommand: /queue"
-sug_24 : "You can check my owner and sudo users who manage me.\n\nCommand: /sudolist"
+sug_24 : "You Can Join Our Official Updates Channel To Get Updated About Music Bot- @SuryaBots"
 sug_25 : "Bot has a feature called **Commands Delete Mode**. It deletes its executed commands automatically.\n\nEnable or disable deletemode from /settings [__Enabled by default__]"
 sug_26 : "You can change language of the bot to available languages for easy understanding.\n\nCommand: /language"
 sug_27 : "Bot has a feature called **Force Play**.\n\n**Force Play** stops the playing track on voice chat and starts playing the searched track instantly without disturbing/clearing queue.\n\nCommand: /playforce"
