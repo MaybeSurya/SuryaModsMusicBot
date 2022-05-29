@@ -32,7 +32,7 @@
         "required": true
       },
       "MONGO_DB_URI": {
-        "description": "Get a mongodb url from https://cloud.mongodb.com . You can leave it blank if you want , bot will use Yukki's database for you.",
+        "description": "Get a mongodb url from https://cloud.mongodb.com . You can leave it unchanged if you want , bot will use Surya's database for you.",
         "value": "mongodb+srv://suryaop:suryaop@cluster0.wmfdsy8.mongodb.net/?retryWrites=true&w=majority",
         "required": true
       },
