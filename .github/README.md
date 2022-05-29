@@ -131,7 +131,7 @@ Reach out to the maintainer at one of the following places:
 
 If you want to say **thank you** or/and support active development of SuryaMusic:
   
-- You Can Contact SuryaModOwner(https://telegram.me/SuryaModOwner) on Telegram For Donation Towards This Music Bot.
+- You Can Contact [SuryaModOwner](https://telegram.me/SuryaModOwner) on Telegram For Donation Towards This Music Bot.
 
 - Add a [GitHub Star](https://github.com/SuryaModsYT/SuryaModsMusicBot) to the project.
 - Fork the Repo :)
