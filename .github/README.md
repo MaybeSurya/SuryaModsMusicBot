@@ -1,4 +1,4 @@
-<img src="xxx" align="right" width="200" height="200"/>
+<img src="https://telegra.ph/file/190061b48aa72fab70e25.jpg" align="right" width="200" height="200"/>
 
 <h3>⚠️ This repo is just a clone of YukkiMusic</a>. All credits goes to devs of YukkiMusicBot.</h3>
 
