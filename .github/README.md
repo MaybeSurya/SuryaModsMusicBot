@@ -52,9 +52,7 @@ For more information on the technologies that power the AviaxMusic, check out th
 
 ## 🖇 Generating Pyrogram String Session
 
-- Generate a Pyrogram String Session via [Replit](https://replit.com/@NotReallyShikhar/Yukki-Music-String-Gen)
-
-- Generate a Pyrogram String Session via [Telegram String Generation Bot](https://t.me/YukkiStringBot)
+- Generate a Pyrogram String Session via [Replit](https://replit.com/@SuryaModsYT/SURYA-MUSIC-SESSION-GEN)
 
 
 ## 🖇 Heroku Deployment
