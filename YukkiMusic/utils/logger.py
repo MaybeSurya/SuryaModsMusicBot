@@ -1,3 +1,4 @@
+#
 # Copyright (C) 2021-2022 by TeamYukki@Github, < https://github.com/TeamYukki >.
 #
 # This file is part of < https://github.com/TeamYukki/YukkiMusicBot > project,
@@ -18,13 +19,16 @@ async def play_logs(message, streamtype):
         else:
             chatusername = "Private Group"
         logger_text = f"""
-**SURYA MUSIC LOG**
+**YUKKI PLAY LOG**
+
 **Chat:** {message.chat.title} [`{message.chat.id}`]
 **User:** {message.from_user.mention}
 **Username:** @{message.from_user.username}
 **User ID:** `{message.from_user.id}`
 **Chat Link:** {chatusername}
+
 **Query:** {message.text}
+
 **StreamType:** {streamtype}"""
         if message.chat.id != LOG_GROUP_ID:
             try:

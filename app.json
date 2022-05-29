@@ -24,9 +24,9 @@
         "required": true
       },
       "AUTO_LEAVING_ASSISTANT": {
-        "description": "Set True if you want your assistant to leave all chats automatically after some time.",
-        "value": "False",
-        "required": true
+        "description": "If you want your assistant to leave all chats automatically after some time.",
+        "value": "True",
+        "required": false
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
@@ -36,16 +36,16 @@
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com . You can leave it blank if you want , bot will use Yukki's database for you.",
         "value": "",
-        "required": false
+        "required": true
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. Please don't use ascii characters",
-        "value": "SURYA MODS MUSIC",
+        "value": "",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "5043850742",
+        "value": "",
         "required": true
       },
       "STRING_SESSION": {
@@ -70,7 +70,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/SuryaModsYT/SuryaModsMusicBot",
+        "value": "https://github.com/TeamYukki/YukkiMusicBot",
         "required": true
       },
       "UPSTREAM_BRANCH": {
@@ -95,6 +95,5 @@
               "quantity": 1,
               "size": "free"
           }
-      },
-      "stack": "container"
+      }
   }
